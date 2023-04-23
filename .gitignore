@@ -1,0 +1,3 @@
+receipts/*
+config.yml*
+!config.yml.example
